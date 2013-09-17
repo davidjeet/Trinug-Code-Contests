@@ -1,0 +1,24 @@
+2011-07-28 15:30:45.0681|ERROR|LD.LevenshteinDistanceViewModel|System.ArgumentException: String cannot be of zero length.
+Parameter name: oldValue
+   at System.String.ReplaceInternal(String oldValue, String newValue)
+   at System.String.Replace(String oldValue, String newValue)
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 30
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 37
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 37
+   at LD.LevenshteinDistanceViewModel.ComputeDistances() in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistanceViewModel.cs:line 71
+2011-07-28 15:32:26.0232|ERROR|LD.LevenshteinDistanceViewModel|System.ArgumentException: String cannot be of zero length.
+Parameter name: oldValue
+   at System.String.ReplaceInternal(String oldValue, String newValue)
+   at System.String.Replace(String oldValue, String newValue)
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 30
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 37
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 37
+   at LD.LevenshteinDistanceViewModel.ComputeDistances() in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistanceViewModel.cs:line 71
+2011-07-28 15:32:50.4507|ERROR|LD.LevenshteinDistanceViewModel|System.ArgumentException: String cannot be of zero length.
+Parameter name: oldValue
+   at System.String.ReplaceInternal(String oldValue, String newValue)
+   at System.String.Replace(String oldValue, String newValue)
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 30
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 37
+   at LD.LevenshteinDistance.GetLevenshteinDistance(String a, String b) in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistance.cs:line 37
+   at LD.LevenshteinDistanceViewModel.ComputeDistances() in E:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Implementation\LevenshteinDistanceViewModel.cs:line 71

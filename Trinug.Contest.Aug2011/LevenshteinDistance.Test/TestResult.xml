@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test\LevenshteinDistance.Test.csproj" total="2" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-07-21" time="21:45:51">
+  <environment nunit-version="2.5.8.10295" clr-version="2.0.50727.5446" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test" machine-name="LADERATECH1" user="David" user-domain="LADERATECH1" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test\LevenshteinDistance.Test.csproj" executed="True" result="Failure" success="False" time="1.286" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test\bin\Debug\LevenshteinDistance.Test.dll" executed="True" result="Failure" success="False" time="0.803" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="LevenshteinDistance" executed="True" result="Failure" success="False" time="0.799" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Test" executed="True" result="Failure" success="False" time="0.790" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="NUnitSampleTests" executed="True" result="Failure" success="False" time="0.787" asserts="0">
+                    <results>
+                      <test-case name="LevenshteinDistance.Test.NUnitSampleTests.SomeFailingTest" executed="True" result="Failure" success="False" time="0.336" asserts="1">
+                        <failure>
+                          <message><![CDATA[  Expected: greater than 7
+  But was:  5
+]]></message>
+                          <stack-trace><![CDATA[at LevenshteinDistance.Test.NUnitSampleTests.SomeFailingTest() in C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test\NUnitSampleTests.cs:line 13
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                      <test-case name="LevenshteinDistance.Test.NUnitSampleTests.SomePassingTest" executed="True" result="Success" success="True" time="0.015" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

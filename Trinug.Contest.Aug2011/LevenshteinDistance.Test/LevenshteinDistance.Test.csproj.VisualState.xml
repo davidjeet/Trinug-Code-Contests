@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test\LevenshteinDistance.Test.csproj</TopNode>
+  <SelectedNode>[0-1000]C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test\LevenshteinDistance.Test.csproj</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test\LevenshteinDistance.Test.csproj" Expanded="true" />
+    <Node UniqueName="[0-1004]C:\Dropbox\Trinug.Contest.Aug2011\LevenshteinDistance.Test\bin\Debug\LevenshteinDistance.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1005]LevenshteinDistance" Expanded="true" />
+    <Node UniqueName="[0-1006]LevenshteinDistance.Test" Expanded="true" />
+    <Node UniqueName="[0-1001]LevenshteinDistance.Test.NUnitSampleTests" Expanded="true" />
+  </Nodes>
+</VisualState>

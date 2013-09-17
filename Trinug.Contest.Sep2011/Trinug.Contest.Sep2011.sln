@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primes.Web", "Primes.Web\Primes.Web.csproj", "{F3887EB5-99EE-4288-93C9-E88B1A1DA3E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primes.Test", "Primes.Test\Primes.Test.csproj", "{F9DBAC83-6E4D-47D3-9F82-9E430418BCAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primes.Model", "Primes.Model\Primes.Model.csproj", "{FE8CA45D-C806-49C7-B0D6-7889FEF1CF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3887EB5-99EE-4288-93C9-E88B1A1DA3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3887EB5-99EE-4288-93C9-E88B1A1DA3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3887EB5-99EE-4288-93C9-E88B1A1DA3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3887EB5-99EE-4288-93C9-E88B1A1DA3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DBAC83-6E4D-47D3-9F82-9E430418BCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DBAC83-6E4D-47D3-9F82-9E430418BCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DBAC83-6E4D-47D3-9F82-9E430418BCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DBAC83-6E4D-47D3-9F82-9E430418BCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8CA45D-C806-49C7-B0D6-7889FEF1CF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8CA45D-C806-49C7-B0D6-7889FEF1CF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8CA45D-C806-49C7-B0D6-7889FEF1CF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8CA45D-C806-49C7-B0D6-7889FEF1CF57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Dropbox\Projects\Trinug.Contest.Sep2011\Primes.Test\Primes.Test.csproj</TopNode>
+  <SelectedNode>[0-1001]Primes.Test.NUnitTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Dropbox\Projects\Trinug.Contest.Sep2011\Primes.Test\Primes.Test.csproj" Expanded="true" />
+    <Node UniqueName="[0-1008]C:\Dropbox\Projects\Trinug.Contest.Sep2011\Primes.Test\bin\Debug\Primes.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1009]Primes" Expanded="true" />
+    <Node UniqueName="[0-1010]Primes.Test" Expanded="true" />
+    <Node UniqueName="[0-1001]Primes.Test.NUnitTests" Expanded="true" />
+  </Nodes>
+</VisualState>

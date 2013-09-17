@@ -1,0 +1,66 @@
+﻿This month’s User Group Code Challenge:
+
+  
+The Problem: 
+The Levenshtein Distance between two strings a, b is the number of changes to transform one string into another. For example to transform mouse into house would take 1 (change the m to an h). If the strings are different length then either 
+characters need to be added or removed. The total number of operations needed (inserts, deletes or changes) is the Levenshtein distance. 
+  
+The Challenge: 
+In this challenge you are given a txt file of 100 word pairs, each pair is on a separate line and comma separated. You must write a function: 
+  
+  GetLevenshteinDistance(string a,string b) {} 
+  
+ or 
+  
+ Private Function GetLevenshteinDistance(a As String, b As String) As Integer 
+ End Function 
+  
+that calculates the distance between the two strings and returns it then outputs it with the 100 numbers in and the total time it took (excluding reading the text file and writing it). 
+  
+Note to keep it simple the lengths of the two words will only differ by at most 2 characters. So you may get a 6 letter word to transform into a 4,5, 6,7 or 8 letter word but not 9 or more, or 3 or less. 
+  
+Input Files 
+There is one file, located in the same folders as your exe. It is attached to this email. Input.txt. This is a text file holding 100 word pairs, two per line, that are comma separated. 
+  
+The Output 
+You can print out to a Console screen, a WinForm, or a Web Page. You should have the average time of a run. A run is all 100 word pairs. The rest of the output should be 100 lines containing the two words (comma separated) and the distance like this on each line: Fred,Fredd,1 
+  
+The Solution:
+Can be written in VB.NET or C#
+Should adhere to all proper naming and coding standards from industry best-practices. This includes solution and project names, variable names, etc.
+Should be FxCop compliant with no or few FxCop warnings
+Should be as simple as possible, ideally leveraging OO instead procedural coding
+Should use Unit Testing
+Should be reusable without code changes. In other words, not a custom one-off solution, but something that would work for any developer on any application.
+
+The platform: 
+Any UI written in .NET – web, windows, command-line, mobile, etc… 
+  
+What’s in it for me? 
+Recognition among your peers and some swag: 
+ - 1st place: coupon for a 1 hour massage at Massage Envy 
+ - 2nd Place: 1-year subscription to TekPub 
+ - 3rd place: 30-day subscription to Pluralsight 
+  
+We encourage you to be creative and have as much fun doing it, as we will hope to have looking at the results. Contest will be open through August 7th, 2011 with the results announced on August 10th at the next TRINUG main meeting. 
+  
+Rules: 
+The application must adhere to the best practices as specified in Code Complete, Pragmatic Programmer, etc.. 
+  
+Judging: 
+Entries will be judged on a scale of 1-10. Items like code comments, error handling, unit testing, FxCop compliance and OOP add additional points to the score. 
+  
+Privacy notice: 
+TriNug reserves the right to use your name and code in the announcement on the TriNug website. You will NOT be inundated with feedback. Submitted code and comments will not be shared with anyone outside the judging committee. 
+  
+Eligibility: 
+Anyone outside of the TriNug board is eligible to participate. 
+  
+How to submit: 
+Please e-mail the source in the zipped format to jamessdixon@gmail with the subject “TriNug codechallenge” 
+  
+Additional Information and Questions: 
+Email Jamie Dixon 
+  
+
+trinug.pbwiki.com - post your favorite comments about the Code Competition on our wiki - password is 'interact'
